@@ -1,6 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on instrument development<br>
 
+👋 Hey there, I'm Tom! 🧪
+
+Welcome to my GitHub profile, where science meets technology! As a passionate developer and designer, I specialize in creating innovative machines that play a pivotal role in advancing the realms of biochemical research and clinical testing. My mission is to harness the power of cutting-edge technologies to create reliable, efficient, and transformative solutions that push the boundaries of scientific understanding and improve patient outcomes.
+
+🔬 My work primarily revolves around:
+
+- Designing and programming custom machinery for research and diagnostics
+- Integrating robotics and automation into lab processes
+- Developing software to streamline data acquisition and analysis
+
+👩‍💻 I'm proficient in various programming languages and technologies, always eager to learn more and collaborate on projects that can make a real difference in the scientific community. Feel free to check out my repositories to see the projects I've been working on or get in touch with me to discuss potential collaborations.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tomsanislo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomsanislo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomsanislo) 
